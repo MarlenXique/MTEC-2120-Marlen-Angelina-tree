@@ -279,7 +279,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 402762, guid: d5c7fd34c77e1684490361e29a48b555, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 402762, guid: d5c7fd34c77e1684490361e29a48b555, type: 3}
       propertyPath: m_LocalScale.x
@@ -502,7 +502,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &740280979 stripped
 GameObject:
@@ -885,7 +885,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 11, z: -40}
+  m_LocalPosition: {x: 0, y: 20.1, z: -57.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1022,35 +1022,35 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 195218, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_Name
-      value: Pine_tree02
+      value: mushroom tree2
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 15
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalScale.y
-      value: 15
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalScale.z
-      value: 15
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 31.3
+      value: -5.7
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.15683365
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 37.23107
+      value: 66.11
       objectReference: {fileID: 0}
     - target: {fileID: 400120, guid: cea22fc85752a934b91b7c05860603e2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1205,11 +1205,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 130424, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_Name
-      value: Pine_tree_03
+      value: mushroom tree1
       objectReference: {fileID: 0}
     - target: {fileID: 433112, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 433112, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_LocalScale.x
@@ -1229,7 +1229,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 433112, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.78
       objectReference: {fileID: 0}
     - target: {fileID: 433112, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1262,6 +1262,30 @@ PrefabInstance:
     - target: {fileID: 433112, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.606
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 486966, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.733
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3df609545a83ccf44bb30237e3fc1bcf, type: 3}
